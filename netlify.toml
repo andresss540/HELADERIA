@@ -1,1 +1,55 @@
  command = "npm run build"
+   <!DOCTYPE html>
+  <html lang="es">
+  <head>
+  <meta charset="UTF-8">
+  <title>Heladería Ricaute JL</title>
+  <link rel="stylesheet" href="css/style.css">
+  
+  </head>
+  <body>
+  
+  <h1>Heladería Ricaute JL</h1>
+  <nav>
+  <a href="index.html">Inicio</a>
+  <a href="Compras.html">Compras</a>
+  <a href="Compras.html">Contactenos</a>
+  <a href="Login.html">Login</a>
+  
+  </nav>
+  </header>
+  <main>
+  <section id="PRODUCTOS Destacados">
+  <h2>PRODUCTOS EXCLUSIVOS </h2>
+  <ul>
+  <li>
+  <img src=photos/cafeconchipsdechocolate.jpg  alt="Helado de cafe con chips de chocolate">
+  <h3>Helado de cafe con chips de chocolate</h3>
+  <p>Una fusion increible .</p>
+  </li>
+  <li>
+  <img src=photos/mentamediterrania.jpg alt="Helado de menta mediterrania ">
+  <h3>Helado de menta mesditerrania</h3>
+  <p>Un sabor nuevo y refrescante .</p>
+  </li>
+  <li>
+  <img src=photos/doblechocolate.jpg alt="Helado de doble chocolate ">
+  <h3>Helado de Doble Chocolate </h3>
+  <p>Si el Chocolate es el mejoor el doble sabra mejor .</p>
+  </li>
+  <li>
+  <img src=photos/frambuesanegraconchipsdechocolate.jpg alt="Helado de frambuesa negra con chips de chocolate ">
+  <h3>Helado de frambuesa negra con chips de chocolate</h3>
+  <p>Un sabor intenso y afrutado.</p>
+  </li>
+  </ul>
+  </section>
+  </main>
+  <script src=>"java/helados.js"</script>
+  <footer>
+  <p>Copyright © 2023 Heladería Ricaute JL</p>
+ 
+  </footer>
+  </body>
+  </html>
+
