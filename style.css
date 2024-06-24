@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+
+  background-image: url("/photos/adrien-olichon-RCAhiGJsUUE-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover}
+
+
+
+header 
+
+header {
+  background-color: #a75050;
+  padding: 20px;
+}
+
+h1 {  text-align: center ;
+  font-size: 35px;
+ /*nombre de la empresa */
+  color: #b87333;
+  padding: 40px 0;
+/*FONDO */
+  font-family: sans-serif;
+  background-color: #262626;
+  font-size: 3em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+nav a {
+  padding: 30px;
+  text-decoration: none ;
+  color: #b41a39;
+  font-size: 2em
+  
+
+}
+section {
+  padding: 20px;
+}
+
+h2 {padding: 40px;
+  text-decoration: none;
+  color: #ffffff;
+ 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 125px;
+}
+h3 {padding: 4px;
+  text-decoration: none;
+  color: #ffffff;
+ 
+}
+p {padding: 4px;
+  text-decoration: none;
+  color: #ffffff;
+ 
+}
+
+footer {
+  background-color: #a34c4c;
+  padding: 20px;
+  text-align: center;
+}
